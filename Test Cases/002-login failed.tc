@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>login with wrong username</description>
+   <name>002-login failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0180c785-910c-4b0c-aa69-34eb96d6487f</testCaseGuid>
+</TestCaseEntity>
